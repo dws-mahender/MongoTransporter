@@ -1,0 +1,5 @@
+/venv
+*.ini
+*.log
+.idea/
+__pycache__/
